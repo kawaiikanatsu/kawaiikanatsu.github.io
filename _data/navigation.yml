@@ -6,19 +6,19 @@ main:
     url: "/"
   - title: "About"
     url: "/about/"
-  # - title: "Cosplay"
-  #   url: "/cosplay/"
-  # - title: "Photography"
-  #   url: "/photography/"
-  # - title: "Blog"
-  #   url: "/blog/"
-  # - title: "Tags"
-  #   url: "/tags/"
+  - title: "Cosplay"
+    url: "/cosplay/"
+  - title: "Photography"
+    url: "/photography/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Tags"
+    url: "/tags/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/

@@ -1,7 +1,7 @@
 var store = [{
-        "title": "Test",
-        "excerpt":"Test  ","categories": [],
+        "title": "Wip",
+        "excerpt":"This blog is still working in progress. Please stay tuned!  ","categories": [],
         "tags": [],
-        "url": "/test/",
+        "url": "/WIP/",
         "teaser": null
       }]

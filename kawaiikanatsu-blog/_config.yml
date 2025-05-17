@@ -19,7 +19,7 @@ locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Kawaii Kanatsu"
 title_separator          : "|"
-subtitle                 : # "Cosplay, Photography, and Creative Adventures" # site tagline that appears below site title in masthead
+subtitle                 : #"Cosplay, Photography, and Creative Adventures" # site tagline that appears below site title in masthead
 name                     : "Kanatsu"
 description              : "Anime and game cosplay blog featuring cosplay photography, creative projects, and fandom adventures. London-based cosplayer and photographer."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Kanatsu"
-  avatar           : "/assets/images/profile_frieren.png"
+  avatar           : "/assets/images/profile_frieren.PNG"
   bio              : "2.5D Character Recreator — **Cosplayer** and **Photographer** who loves creative adventures.
 
 "
